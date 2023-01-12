@@ -80,7 +80,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'https://apiz.ebay.com{basePath}';
+    protected $host = 'https://apiz.ebay.com/developer/key_management/v1';
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
